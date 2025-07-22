@@ -1,8 +1,5 @@
-# CNIC-Proteomics
+## CNIC-Proteomics/.github
 
-Our group works on the development of high-throughput quantitative approaches for the dynamic analysis of the deep proteome, which are being applied to basic and translational projects in the cardiovascular field. We are developing novel bioinformatics algorithms for the analysis of very large numbers of samples, including protein identification and systems biology interpretation of quantitative data, and for the study of posttranslational modifications (PTM).
+CNIC-Proteomics/.github is a special repository.
 
-Among other projects, we are using these approaches to explore the molecular mechanisms underlying the byphasic pattern of edema in the pig heart after infarction, and the preconditioning effect of treatments that ameliorate the heart damage produced by ischemia/reperfusion.
-We have developed a novel data-independent mass spectrometry scanning technique (DiS) that improves on the performance of conventional shotgun approaches and also allows in-silico-targeted quantification of any suspected peptide, including PTMs. We are using an extension of this technique (Blue-DiS) to generate an extremely detailed structural map of components of mitochondrial oxidative phosphorylation supercomplexes in several models, which include characterization of novel factors and PTMs that modulate complex and supercomplex assembly.
-
-We are also performing translational studies in large cohorts of human samples to uncover molecular mechanisms and biomarkers of cardiovascular disease. We are currently undertaking a high-throughput proteomics analysis of plasma from participants in the PESA study, in the search for factors that correlate with the extent of subclinical atherosclerotic events such as calcium deposition and plaque formation. We are also setting up a mass spectrometry-based platform for targeted and hypothesis-free analysis of lipids and small metabolites.
+The profile/README.md will appear on the organization's profile
